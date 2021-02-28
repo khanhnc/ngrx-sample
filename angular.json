@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "ngxs-test"
+  "defaultProject": "ngxs-test",
+  "cli": {
+    "analytics": "13a66b4e-1cae-4365-964a-2dc2342deef6"
+  }
 }
